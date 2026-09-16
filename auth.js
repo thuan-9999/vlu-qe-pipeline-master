@@ -1,3 +1,4 @@
+// Updated login logic - feature branch test
 const lockedAccounts = ['locked_user'];
 
 function login(username, password) {
